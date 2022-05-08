@@ -8,12 +8,12 @@
 
 <h3 align="left">What I am Doing Now:</h3>
 
-<p>Currently, I am creating Unity Fitness VR SDKs with C#, .Net, Websockets, AWS serverless, and NoSQL with the <a href="https://vrhealth.institute/">VR Health Institute</a>.</p>
-<p>When I am not doing that, I am working on Solidity for Ethereum blockchain and Rust for Substrate Blockchain (Polkadot). I believe that Web3 will play a big part of the future.</p>
+<p>Currently, I am the Head of Developer Relations and Support Engineering at <a href="https://www.nervos.org">Nervos Network Blockchain</a> and advisor to <a href="https://vrhealth.institute/">VR Health Institute</a>.</p>
+<p>When I am not doing that, I am working on Solidity, C# projects and Unity. I believe that Web3 will play a big part of the future.</p>
 
 - 👯 I make <a href="https://www.youtube.com/channel/UCbUclLalUhrb-ryHdDZy6sw">developer tutorials</a>
 
-- 👨‍💻 Have a small <a href="https://www.vanderwal.com"> sample portfolio</a>
+- 👨‍💻 I do some <a href="https://twitter.com/TheVanderWal"> tweeting</a>
 
 - 📝 And regularly <a href="https://vanderwal.hashnode.dev/">write articles on Hashnode</a>
 
