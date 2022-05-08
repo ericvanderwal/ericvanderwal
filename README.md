@@ -1,6 +1,6 @@
 <h1 align="left">Hi, I'm Eric Vander Wal</h1>
 <h3 align="left">I build and support, easy to use, beautiful technology. <strong>Virtual Reality, Game Dev Tools, Web & Blockchain</strong></h3>
-<p>I have over 20 years of combined web & game development, management and software engineering experience with a focus on easy to use technology and content management systems. This led to my focus on the C# Microsoft .Net ecosystem, Rust and Javascript!</p>
+<p>I have over 20 years of combined web & game development, management and software engineering experience with a focus on easy to use technology and content management systems. This led to my focus on the C# Microsoft .Net ecosystem, Rust, Javascript and Blockchain!</p>
 
 <p> I like to work in small fast paced team management, start-ups, saas culture, and developer relations. I've held positions all the way from junior front-end developer to senior backend developer, team lead, and CTO.</p>
 
