@@ -2,14 +2,9 @@
 <h3 align="left">I build and support, easy to use, beautiful technology. <strong>Virtual Reality, Game Dev Tools, Web & Blockchain</strong></h3>
 <p>I have over 20 years of combined web & game development, management and software engineering experience with a focus on easy to use technology and content management systems. This led to my focus on the C# Microsoft .Net ecosystem, Rust, Javascript and Blockchain!</p>
 
-<p> I like to work in small fast paced team management, start-ups, saas culture, and developer relations. I've held positions all the way from junior front-end developer to senior backend developer, team lead, and CTO.</p>
+<p> I like to work in small fast paced team management, start-ups, saas culture, and developer relations. I've held positions all the way from junior front-end developer to senior backend developer, team lead, and CEO.</p>
 
 <p> Oh, I also have two medical degrees (Doctor of Traditional Chinese Medicine and Masters of Medicine), love VR and have more pets than any reasonable person should have.</p>
-
-<h3 align="left">What I am Doing Now:</h3>
-
-<p>Currently, I am the Head of Developer Relations and Support Engineering at <a href="https://www.nervos.org">Nervos Network Blockchain</a> and advisor to <a href="https://vrhealth.institute/">VR Health Institute</a>.</p>
-<p>When I am not doing that, I am working on Solidity, C# projects and Unity. I believe that Web3 will play a big part of the future.</p>
 
 - 👯 I make <a href="https://www.youtube.com/channel/UCbUclLalUhrb-ryHdDZy6sw">developer tutorials</a>
 
